@@ -1,0 +1,1506 @@
+[
+  {
+    "rank": 1,
+    "combo": "Thassa's Oracle + Demonic Consultation",
+    "cards": [
+      "Thassa's Oracle",
+      "Demonic Consultation"
+    ],
+    "win_condition": "Victoria inmediata por biblioteca vacía.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/01-thassa-s-oracle-demonic-consultation.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Thassa%27s+Oracle+Demonic+Consultation"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Thassa%27s+Oracle+Demonic+Consultation"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Thassa%27s+Oracle+Demonic+Consultation"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "combo": "Thassa's Oracle + Tainted Pact",
+    "cards": [
+      "Thassa's Oracle",
+      "Tainted Pact"
+    ],
+    "win_condition": "Victoria inmediata por biblioteca vacía.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/02-thassa-s-oracle-tainted-pact.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Thassa%27s+Oracle+Tainted+Pact"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Thassa%27s+Oracle+Tainted+Pact"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Thassa%27s+Oracle+Tainted+Pact"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "combo": "Underworld Breach + Lion's Eye Diamond + Brain Freeze",
+    "cards": [
+      "Underworld Breach",
+      "Lion's Eye Diamond",
+      "Brain Freeze"
+    ],
+    "win_condition": "Storm letal o auto-mill infinito hacia win determinista.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/03-underworld-breach-lion-s-eye-diamond-brain-freeze.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Underworld+Breach+Lion%27s+Eye+Diamond+Brain+Freeze"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Underworld+Breach+Lion%27s+Eye+Diamond+Brain+Freeze"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Underworld+Breach+Lion%27s+Eye+Diamond+Brain+Freeze"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "combo": "Kiki-Jiki, Mirror Breaker + Zealous Conscripts",
+    "cards": [
+      "Kiki-Jiki, Mirror Breaker",
+      "Zealous Conscripts"
+    ],
+    "win_condition": "Infinitas criaturas con prisa para daño letal en combate.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/04-kiki-jiki-mirror-breaker-zealous-conscripts.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Kiki-Jiki%2C+Mirror+Breaker+Zealous+Conscripts"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Kiki-Jiki%2C+Mirror+Breaker+Zealous+Conscripts"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kiki-Jiki%2C+Mirror+Breaker+Zealous+Conscripts"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "combo": "Kiki-Jiki, Mirror Breaker + Felidar Guardian",
+    "cards": [
+      "Kiki-Jiki, Mirror Breaker",
+      "Felidar Guardian"
+    ],
+    "win_condition": "Infinitos tokens con prisa y kill por combate.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/05-kiki-jiki-mirror-breaker-felidar-guardian.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Kiki-Jiki%2C+Mirror+Breaker+Felidar+Guardian"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Kiki-Jiki%2C+Mirror+Breaker+Felidar+Guardian"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kiki-Jiki%2C+Mirror+Breaker+Felidar+Guardian"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "combo": "Kiki-Jiki, Mirror Breaker + Village Bell-Ringer",
+    "cards": [
+      "Kiki-Jiki, Mirror Breaker",
+      "Village Bell-Ringer"
+    ],
+    "win_condition": "Infinitas copias con prisa para letal de combate.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/06-kiki-jiki-mirror-breaker-village-bell-ringer.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Kiki-Jiki%2C+Mirror+Breaker+Village+Bell-Ringer"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Kiki-Jiki%2C+Mirror+Breaker+Village+Bell-Ringer"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kiki-Jiki%2C+Mirror+Breaker+Village+Bell-Ringer"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "combo": "Splinter Twin + Deceiver Exarch",
+    "cards": [
+      "Splinter Twin",
+      "Deceiver Exarch"
+    ],
+    "win_condition": "Tokens infinitos con prisa.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/07-splinter-twin-deceiver-exarch.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Splinter+Twin+Deceiver+Exarch"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Splinter+Twin+Deceiver+Exarch"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Splinter+Twin+Deceiver+Exarch"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "combo": "Splinter Twin + Pestermite",
+    "cards": [
+      "Splinter Twin",
+      "Pestermite"
+    ],
+    "win_condition": "Infinitos tokens con prisa y daño de combate.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/08-splinter-twin-pestermite.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Splinter+Twin+Pestermite"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Splinter+Twin+Pestermite"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Splinter+Twin+Pestermite"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "combo": "Heliod, Sun-Crowned + Walking Ballista",
+    "cards": [
+      "Heliod, Sun-Crowned",
+      "Walking Ballista"
+    ],
+    "win_condition": "Daño infinito a mesa/rivales.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/09-heliod-sun-crowned-walking-ballista.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Heliod%2C+Sun-Crowned+Walking+Ballista"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Heliod%2C+Sun-Crowned+Walking+Ballista"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Heliod%2C+Sun-Crowned+Walking+Ballista"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "combo": "Mikaeus, the Unhallowed + Walking Ballista",
+    "cards": [
+      "Mikaeus, the Unhallowed",
+      "Walking Ballista"
+    ],
+    "win_condition": "Daño infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/10-mikaeus-the-unhallowed-walking-ballista.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Mikaeus%2C+the+Unhallowed+Walking+Ballista"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Mikaeus%2C+the+Unhallowed+Walking+Ballista"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mikaeus%2C+the+Unhallowed+Walking+Ballista"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "combo": "Mikaeus, the Unhallowed + Triskelion",
+    "cards": [
+      "Mikaeus, the Unhallowed",
+      "Triskelion"
+    ],
+    "win_condition": "Daño infinito repartido.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/11-mikaeus-the-unhallowed-triskelion.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Mikaeus%2C+the+Unhallowed+Triskelion"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Mikaeus%2C+the+Unhallowed+Triskelion"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mikaeus%2C+the+Unhallowed+Triskelion"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "combo": "Sanguine Bond + Exquisite Blood",
+    "cards": [
+      "Sanguine Bond",
+      "Exquisite Blood"
+    ],
+    "win_condition": "Loop infinito de pérdida/ganancia de vida.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/12-sanguine-bond-exquisite-blood.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Sanguine+Bond+Exquisite+Blood"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Sanguine+Bond+Exquisite+Blood"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Sanguine+Bond+Exquisite+Blood"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "combo": "Painter's Servant + Grindstone",
+    "cards": [
+      "Painter's Servant",
+      "Grindstone"
+    ],
+    "win_condition": "Milling completo de bibliotecas.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/13-painter-s-servant-grindstone.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Painter%27s+Servant+Grindstone"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Painter%27s+Servant+Grindstone"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Painter%27s+Servant+Grindstone"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "combo": "Food Chain + Misthollow Griffin",
+    "cards": [
+      "Food Chain",
+      "Misthollow Griffin"
+    ],
+    "win_condition": "Maná infinito de criatura para castear wincon.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/14-food-chain-misthollow-griffin.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Food+Chain+Misthollow+Griffin"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Food+Chain+Misthollow+Griffin"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Food+Chain+Misthollow+Griffin"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "combo": "Food Chain + Eternal Scourge",
+    "cards": [
+      "Food Chain",
+      "Eternal Scourge"
+    ],
+    "win_condition": "Maná infinito de criatura.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/15-food-chain-eternal-scourge.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Food+Chain+Eternal+Scourge"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Food+Chain+Eternal+Scourge"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Food+Chain+Eternal+Scourge"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "combo": "Food Chain + Squee, the Immortal",
+    "cards": [
+      "Food Chain",
+      "Squee, the Immortal"
+    ],
+    "win_condition": "Maná infinito de criatura.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/16-food-chain-squee-the-immortal.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Food+Chain+Squee%2C+the+Immortal"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Food+Chain+Squee%2C+the+Immortal"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Food+Chain+Squee%2C+the+Immortal"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "combo": "Isochron Scepter + Dramatic Reversal",
+    "cards": [
+      "Isochron Scepter",
+      "Dramatic Reversal"
+    ],
+    "win_condition": "Maná infinito y/o activaciones infinitas.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/17-isochron-scepter-dramatic-reversal.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Isochron+Scepter+Dramatic+Reversal"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Isochron+Scepter+Dramatic+Reversal"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Isochron+Scepter+Dramatic+Reversal"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "combo": "Basalt Monolith + Rings of Brighthearth",
+    "cards": [
+      "Basalt Monolith",
+      "Rings of Brighthearth"
+    ],
+    "win_condition": "Maná incoloro infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/18-basalt-monolith-rings-of-brighthearth.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Basalt+Monolith+Rings+of+Brighthearth"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Basalt+Monolith+Rings+of+Brighthearth"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Basalt+Monolith+Rings+of+Brighthearth"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "combo": "Grim Monolith + Power Artifact",
+    "cards": [
+      "Grim Monolith",
+      "Power Artifact"
+    ],
+    "win_condition": "Maná incoloro infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/19-grim-monolith-power-artifact.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Grim+Monolith+Power+Artifact"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Grim+Monolith+Power+Artifact"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Grim+Monolith+Power+Artifact"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "combo": "Basalt Monolith + Power Artifact",
+    "cards": [
+      "Basalt Monolith",
+      "Power Artifact"
+    ],
+    "win_condition": "Maná infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/20-basalt-monolith-power-artifact.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Basalt+Monolith+Power+Artifact"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Basalt+Monolith+Power+Artifact"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Basalt+Monolith+Power+Artifact"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "combo": "Palinchron + High Tide",
+    "cards": [
+      "Palinchron",
+      "High Tide"
+    ],
+    "win_condition": "Maná azul infinito y cierre con outlet.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/21-palinchron-high-tide.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Palinchron+High+Tide"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Palinchron+High+Tide"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Palinchron+High+Tide"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "combo": "Peregrine Drake + Deadeye Navigator",
+    "cards": [
+      "Peregrine Drake",
+      "Deadeye Navigator"
+    ],
+    "win_condition": "Maná infinito de tierras.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/22-peregrine-drake-deadeye-navigator.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Peregrine+Drake+Deadeye+Navigator"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Peregrine+Drake+Deadeye+Navigator"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Peregrine+Drake+Deadeye+Navigator"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "combo": "Freed from the Real + Bloom Tender",
+    "cards": [
+      "Freed from the Real",
+      "Bloom Tender"
+    ],
+    "win_condition": "Maná infinito de colores presentes en permanentes.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/23-freed-from-the-real-bloom-tender.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Freed+from+the+Real+Bloom+Tender"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Freed+from+the+Real+Bloom+Tender"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Freed+from+the+Real+Bloom+Tender"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "combo": "Freed from the Real + Faeburrow Elder",
+    "cards": [
+      "Freed from the Real",
+      "Faeburrow Elder"
+    ],
+    "win_condition": "Maná infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/24-freed-from-the-real-faeburrow-elder.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Freed+from+the+Real+Faeburrow+Elder"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Freed+from+the+Real+Faeburrow+Elder"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Freed+from+the+Real+Faeburrow+Elder"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "combo": "Devoted Druid + Vizier of Remedies",
+    "cards": [
+      "Devoted Druid",
+      "Vizier of Remedies"
+    ],
+    "win_condition": "Maná verde infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/25-devoted-druid-vizier-of-remedies.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Devoted+Druid+Vizier+of+Remedies"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Devoted+Druid+Vizier+of+Remedies"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Devoted+Druid+Vizier+of+Remedies"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 26,
+    "combo": "Devoted Druid + Swift Reconfiguration",
+    "cards": [
+      "Devoted Druid",
+      "Swift Reconfiguration"
+    ],
+    "win_condition": "Maná verde infinito.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/26-devoted-druid-swift-reconfiguration.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Devoted+Druid+Swift+Reconfiguration"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Devoted+Druid+Swift+Reconfiguration"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Devoted+Druid+Swift+Reconfiguration"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 27,
+    "combo": "Hermit Druid + Dread Return + Thassa's Oracle",
+    "cards": [
+      "Hermit Druid",
+      "Dread Return",
+      "Thassa's Oracle"
+    ],
+    "win_condition": "Auto-mill total y victoria por Oracle.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/27-hermit-druid-dread-return-thassa-s-oracle.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Hermit+Druid+Dread+Return+Thassa%27s+Oracle"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Hermit+Druid+Dread+Return+Thassa%27s+Oracle"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hermit+Druid+Dread+Return+Thassa%27s+Oracle"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 28,
+    "combo": "Cephalid Illusionist + Nomads en-Kor",
+    "cards": [
+      "Cephalid Illusionist",
+      "Nomads en-Kor"
+    ],
+    "win_condition": "Auto-mill completo hacia línea de reanimación/Oracle.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/28-cephalid-illusionist-nomads-en-kor.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Cephalid+Illusionist+Nomads+en-Kor"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Cephalid+Illusionist+Nomads+en-Kor"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cephalid+Illusionist+Nomads+en-Kor"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 29,
+    "combo": "Necrotic Ooze + Phyrexian Devourer + Walking Ballista",
+    "cards": [
+      "Necrotic Ooze",
+      "Phyrexian Devourer",
+      "Walking Ballista"
+    ],
+    "win_condition": "Daño letal desde cementerio con Ooze.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/29-necrotic-ooze-phyrexian-devourer-walking-ballista.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Necrotic+Ooze+Phyrexian+Devourer+Walking+Ballista"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Necrotic+Ooze+Phyrexian+Devourer+Walking+Ballista"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Necrotic+Ooze+Phyrexian+Devourer+Walking+Ballista"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 30,
+    "combo": "Razaketh, the Foulblooded + Reanimate loop",
+    "cards": [
+      "Razaketh, the Foulblooded",
+      "Reanimate"
+    ],
+    "win_condition": "Cadena de tutores hasta win determinista.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/30-razaketh-the-foulblooded-reanimate-loop.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Razaketh%2C+the+Foulblooded+Reanimate"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Razaketh%2C+the+Foulblooded+Reanimate"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Razaketh%2C+the+Foulblooded+Reanimate"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 31,
+    "combo": "Protean Hulk pile",
+    "cards": [
+      "Protean Hulk"
+    ],
+    "win_condition": "Tutor en cadena hacia kill inmediata (Oracle/Kiki/Ballista según pile).",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/31-protean-hulk-pile.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Protean+Hulk"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Protean+Hulk"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Protean+Hulk"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 32,
+    "combo": "Boonweaver Giant + Pattern of Rebirth",
+    "cards": [
+      "Boonweaver Giant",
+      "Pattern of Rebirth"
+    ],
+    "win_condition": "Cadena de reanimación/ETB que termina en kill (Blood Artist/Altar/etc.).",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/32-boonweaver-giant-pattern-of-rebirth.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Boonweaver+Giant+Pattern+of+Rebirth"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Boonweaver+Giant+Pattern+of+Rebirth"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Boonweaver+Giant+Pattern+of+Rebirth"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 33,
+    "combo": "Karmic Guide + Reveillark + Sac outlet",
+    "cards": [
+      "Karmic Guide",
+      "Reveillark"
+    ],
+    "win_condition": "Loop infinito de ETB/LTB con payoff letal.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/33-karmic-guide-reveillark-sac-outlet.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Karmic+Guide+Reveillark"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Karmic+Guide+Reveillark"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Karmic+Guide+Reveillark"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 34,
+    "combo": "Niv-Mizzet, Parun + Curiosity",
+    "cards": [
+      "Niv-Mizzet, Parun",
+      "Curiosity"
+    ],
+    "win_condition": "Daño infinito por robo de cartas.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/34-niv-mizzet-parun-curiosity.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Niv-Mizzet%2C+Parun+Curiosity"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Niv-Mizzet%2C+Parun+Curiosity"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Niv-Mizzet%2C+Parun+Curiosity"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 35,
+    "combo": "Niv-Mizzet, Parun + Ophidian Eye",
+    "cards": [
+      "Niv-Mizzet, Parun",
+      "Ophidian Eye"
+    ],
+    "win_condition": "Bucle infinito de daño/robo.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/35-niv-mizzet-parun-ophidian-eye.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Niv-Mizzet%2C+Parun+Ophidian+Eye"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Niv-Mizzet%2C+Parun+Ophidian+Eye"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Niv-Mizzet%2C+Parun+Ophidian+Eye"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 36,
+    "combo": "Niv-Mizzet, Parun + Tandem Lookout",
+    "cards": [
+      "Niv-Mizzet, Parun",
+      "Tandem Lookout"
+    ],
+    "win_condition": "Daño infinito por soulbond.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/36-niv-mizzet-parun-tandem-lookout.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Niv-Mizzet%2C+Parun+Tandem+Lookout"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Niv-Mizzet%2C+Parun+Tandem+Lookout"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Niv-Mizzet%2C+Parun+Tandem+Lookout"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 37,
+    "combo": "Malcolm, Keen-Eyed Navigator + Glint-Horn Buccaneer",
+    "cards": [
+      "Malcolm, Keen-Eyed Navigator",
+      "Glint-Horn Buccaneer"
+    ],
+    "win_condition": "Loop de daño y tesoros infinitos en combate.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/37-malcolm-keen-eyed-navigator-glint-horn-buccaneer.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Malcolm%2C+Keen-Eyed+Navigator+Glint-Horn+Buccaneer"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Malcolm%2C+Keen-Eyed+Navigator+Glint-Horn+Buccaneer"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Malcolm%2C+Keen-Eyed+Navigator+Glint-Horn+Buccaneer"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 38,
+    "combo": "Magda, Brazen Outlaw + Clock of Omens",
+    "cards": [
+      "Magda, Brazen Outlaw",
+      "Clock of Omens"
+    ],
+    "win_condition": "Tesoros infinitos y tutor repetido de artefacto/dragón hacia win.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/38-magda-brazen-outlaw-clock-of-omens.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Magda%2C+Brazen+Outlaw+Clock+of+Omens"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Magda%2C+Brazen+Outlaw+Clock+of+Omens"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Magda%2C+Brazen+Outlaw+Clock+of+Omens"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 39,
+    "combo": "Godo, Bandit Warlord + Helm of the Host",
+    "cards": [
+      "Godo, Bandit Warlord",
+      "Helm of the Host"
+    ],
+    "win_condition": "Fases de combate infinitas.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/39-godo-bandit-warlord-helm-of-the-host.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Godo%2C+Bandit+Warlord+Helm+of+the+Host"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Godo%2C+Bandit+Warlord+Helm+of+the+Host"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Godo%2C+Bandit+Warlord+Helm+of+the+Host"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 40,
+    "combo": "Winota combo lines",
+    "cards": [
+      "Winota, Joiner of Forces",
+      "Kiki-Jiki, Mirror Breaker"
+    ],
+    "win_condition": "Snowball de triggers de Winota hacia lock/combo de combate.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/40-winota-combo-lines.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Winota%2C+Joiner+of+Forces+Kiki-Jiki%2C+Mirror+Breaker"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Winota%2C+Joiner+of+Forces+Kiki-Jiki%2C+Mirror+Breaker"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Winota%2C+Joiner+of+Forces+Kiki-Jiki%2C+Mirror+Breaker"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 41,
+    "combo": "Emry + Mirran Spy + 0-mana artifact",
+    "cards": [
+      "Emry, Lurker of the Loch",
+      "Mirran Spy",
+      "Mox Amber"
+    ],
+    "win_condition": "Cast infinito de artefacto para storm/ETB/outlet.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/41-emry-mirran-spy-0-mana-artifact.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Emry%2C+Lurker+of+the+Loch+Mirran+Spy+Mox+Amber"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Emry%2C+Lurker+of+the+Loch+Mirran+Spy+Mox+Amber"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Emry%2C+Lurker+of+the+Loch+Mirran+Spy+Mox+Amber"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 42,
+    "combo": "Hullbreaker Horror + mana rocks",
+    "cards": [
+      "Hullbreaker Horror",
+      "Sol Ring"
+    ],
+    "win_condition": "Maná/valor infinito y eventual lock total de mesa.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/42-hullbreaker-horror-mana-rocks.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Hullbreaker+Horror+Sol+Ring"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Hullbreaker+Horror+Sol+Ring"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Hullbreaker+Horror+Sol+Ring"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 43,
+    "combo": "Displacer Kitten + The One Ring",
+    "cards": [
+      "Displacer Kitten",
+      "The One Ring"
+    ],
+    "win_condition": "Motor de ventaja masiva que deriva en win por recursos/combo secundario.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/43-displacer-kitten-the-one-ring.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Displacer+Kitten+The+One+Ring"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Displacer+Kitten+The+One+Ring"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Displacer+Kitten+The+One+Ring"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 44,
+    "combo": "Teferi, Time Raveler + Knowledge Pool",
+    "cards": [
+      "Teferi, Time Raveler",
+      "Knowledge Pool"
+    ],
+    "win_condition": "Hard lock: oponentes no pueden resolver hechizos.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/44-teferi-time-raveler-knowledge-pool.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Teferi%2C+Time+Raveler+Knowledge+Pool"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Teferi%2C+Time+Raveler+Knowledge+Pool"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Teferi%2C+Time+Raveler+Knowledge+Pool"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 45,
+    "combo": "Possibility Storm + Drannith Magistrate",
+    "cards": [
+      "Possibility Storm",
+      "Drannith Magistrate"
+    ],
+    "win_condition": "Soft lock: rivales casi no pueden castear hechizos desde mano.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/45-possibility-storm-drannith-magistrate.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Possibility+Storm+Drannith+Magistrate"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Possibility+Storm+Drannith+Magistrate"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Possibility+Storm+Drannith+Magistrate"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 46,
+    "combo": "Lavinia, Azorius Renegade + Knowledge Pool",
+    "cards": [
+      "Lavinia, Azorius Renegade",
+      "Knowledge Pool"
+    ],
+    "win_condition": "Lock de casteo para oponentes.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/46-lavinia-azorius-renegade-knowledge-pool.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Lavinia%2C+Azorius+Renegade+Knowledge+Pool"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Lavinia%2C+Azorius+Renegade+Knowledge+Pool"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lavinia%2C+Azorius+Renegade+Knowledge+Pool"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 47,
+    "combo": "Worldgorger Dragon + Animate Dead",
+    "cards": [
+      "Worldgorger Dragon",
+      "Animate Dead"
+    ],
+    "win_condition": "Maná infinito de permanentes no tierra + outlet letal.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/47-worldgorger-dragon-animate-dead.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Worldgorger+Dragon+Animate+Dead"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Worldgorger+Dragon+Animate+Dead"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Worldgorger+Dragon+Animate+Dead"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 48,
+    "combo": "Auriok Salvagers + Lion's Eye Diamond",
+    "cards": [
+      "Auriok Salvagers",
+      "Lion's Eye Diamond"
+    ],
+    "win_condition": "Maná blanco infinito + storm.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/48-auriok-salvagers-lion-s-eye-diamond.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Auriok+Salvagers+Lion%27s+Eye+Diamond"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Auriok+Salvagers+Lion%27s+Eye+Diamond"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Auriok+Salvagers+Lion%27s+Eye+Diamond"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 49,
+    "combo": "Abdel Adrian, Gorion's Ward + Animate Dead",
+    "cards": [
+      "Abdel Adrian, Gorion's Ward",
+      "Animate Dead"
+    ],
+    "win_condition": "ETB/LTB loop infinito con tokens/valor y outlet letal.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/49-abdel-adrian-gorion-s-ward-animate-dead.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Abdel+Adrian%2C+Gorion%27s+Ward+Animate+Dead"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Abdel+Adrian%2C+Gorion%27s+Ward+Animate+Dead"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Abdel+Adrian%2C+Gorion%27s+Ward+Animate+Dead"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  },
+  {
+    "rank": 50,
+    "combo": "Bolas's Citadel + Sensei's Divining Top + Aetherflux Reservoir",
+    "cards": [
+      "Bolas's Citadel",
+      "Sensei's Divining Top",
+      "Aetherflux Reservoir"
+    ],
+    "win_condition": "Vida infinita efectiva + disparos de 50 de Aetherflux.",
+    "banned_cards": [],
+    "valid": true,
+    "post_file": "wordpress/combos/50-bolas-s-citadel-sensei-s-divining-top-aetherflux-reservoir.md",
+    "sources": [
+      {
+        "name": "EDHTop16",
+        "url": "https://edhtop16.com/search?cards=Bolas%27s+Citadel+Sensei%27s+Divining+Top+Aetherflux+Reservoir"
+      },
+      {
+        "name": "Moxfield",
+        "url": "https://www.moxfield.com/decks/public?q=Bolas%27s+Citadel+Sensei%27s+Divining+Top+Aetherflux+Reservoir"
+      },
+      {
+        "name": "MTGTop8",
+        "url": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Bolas%27s+Citadel+Sensei%27s+Divining+Top+Aetherflux+Reservoir"
+      },
+      {
+        "name": "cEDH Decklist Database",
+        "url": "https://cedh-decklist-database.com/"
+      }
+    ]
+  }
+]

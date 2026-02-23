@@ -1,0 +1,59 @@
+# Validación de combos cEDH vs ban list de Commander
+
+- Nota: se excluyeron líneas con cartas baneadas (incluyendo Dockside Extortionist).
+- Total combos analizados: 50
+- Válidos: 50
+- Inválidos: 0
+
+## Resultado por combo (con condición de victoria)
+
+- ✅ #01 Thassa's Oracle + Demonic Consultation — Wincon: Victoria inmediata por biblioteca vacía. — Ban list: Ninguna — Post: `wordpress/combos/01-thassa-s-oracle-demonic-consultation.md`
+- ✅ #02 Thassa's Oracle + Tainted Pact — Wincon: Victoria inmediata por biblioteca vacía. — Ban list: Ninguna — Post: `wordpress/combos/02-thassa-s-oracle-tainted-pact.md`
+- ✅ #03 Underworld Breach + Lion's Eye Diamond + Brain Freeze — Wincon: Storm letal o auto-mill infinito hacia win determinista. — Ban list: Ninguna — Post: `wordpress/combos/03-underworld-breach-lion-s-eye-diamond-brain-freeze.md`
+- ✅ #04 Kiki-Jiki, Mirror Breaker + Zealous Conscripts — Wincon: Infinitas criaturas con prisa para daño letal en combate. — Ban list: Ninguna — Post: `wordpress/combos/04-kiki-jiki-mirror-breaker-zealous-conscripts.md`
+- ✅ #05 Kiki-Jiki, Mirror Breaker + Felidar Guardian — Wincon: Infinitos tokens con prisa y kill por combate. — Ban list: Ninguna — Post: `wordpress/combos/05-kiki-jiki-mirror-breaker-felidar-guardian.md`
+- ✅ #06 Kiki-Jiki, Mirror Breaker + Village Bell-Ringer — Wincon: Infinitas copias con prisa para letal de combate. — Ban list: Ninguna — Post: `wordpress/combos/06-kiki-jiki-mirror-breaker-village-bell-ringer.md`
+- ✅ #07 Splinter Twin + Deceiver Exarch — Wincon: Tokens infinitos con prisa. — Ban list: Ninguna — Post: `wordpress/combos/07-splinter-twin-deceiver-exarch.md`
+- ✅ #08 Splinter Twin + Pestermite — Wincon: Infinitos tokens con prisa y daño de combate. — Ban list: Ninguna — Post: `wordpress/combos/08-splinter-twin-pestermite.md`
+- ✅ #09 Heliod, Sun-Crowned + Walking Ballista — Wincon: Daño infinito a mesa/rivales. — Ban list: Ninguna — Post: `wordpress/combos/09-heliod-sun-crowned-walking-ballista.md`
+- ✅ #10 Mikaeus, the Unhallowed + Walking Ballista — Wincon: Daño infinito. — Ban list: Ninguna — Post: `wordpress/combos/10-mikaeus-the-unhallowed-walking-ballista.md`
+- ✅ #11 Mikaeus, the Unhallowed + Triskelion — Wincon: Daño infinito repartido. — Ban list: Ninguna — Post: `wordpress/combos/11-mikaeus-the-unhallowed-triskelion.md`
+- ✅ #12 Sanguine Bond + Exquisite Blood — Wincon: Loop infinito de pérdida/ganancia de vida. — Ban list: Ninguna — Post: `wordpress/combos/12-sanguine-bond-exquisite-blood.md`
+- ✅ #13 Painter's Servant + Grindstone — Wincon: Milling completo de bibliotecas. — Ban list: Ninguna — Post: `wordpress/combos/13-painter-s-servant-grindstone.md`
+- ✅ #14 Food Chain + Misthollow Griffin — Wincon: Maná infinito de criatura para castear wincon. — Ban list: Ninguna — Post: `wordpress/combos/14-food-chain-misthollow-griffin.md`
+- ✅ #15 Food Chain + Eternal Scourge — Wincon: Maná infinito de criatura. — Ban list: Ninguna — Post: `wordpress/combos/15-food-chain-eternal-scourge.md`
+- ✅ #16 Food Chain + Squee, the Immortal — Wincon: Maná infinito de criatura. — Ban list: Ninguna — Post: `wordpress/combos/16-food-chain-squee-the-immortal.md`
+- ✅ #17 Isochron Scepter + Dramatic Reversal — Wincon: Maná infinito y/o activaciones infinitas. — Ban list: Ninguna — Post: `wordpress/combos/17-isochron-scepter-dramatic-reversal.md`
+- ✅ #18 Basalt Monolith + Rings of Brighthearth — Wincon: Maná incoloro infinito. — Ban list: Ninguna — Post: `wordpress/combos/18-basalt-monolith-rings-of-brighthearth.md`
+- ✅ #19 Grim Monolith + Power Artifact — Wincon: Maná incoloro infinito. — Ban list: Ninguna — Post: `wordpress/combos/19-grim-monolith-power-artifact.md`
+- ✅ #20 Basalt Monolith + Power Artifact — Wincon: Maná infinito. — Ban list: Ninguna — Post: `wordpress/combos/20-basalt-monolith-power-artifact.md`
+- ✅ #21 Palinchron + High Tide — Wincon: Maná azul infinito y cierre con outlet. — Ban list: Ninguna — Post: `wordpress/combos/21-palinchron-high-tide.md`
+- ✅ #22 Peregrine Drake + Deadeye Navigator — Wincon: Maná infinito de tierras. — Ban list: Ninguna — Post: `wordpress/combos/22-peregrine-drake-deadeye-navigator.md`
+- ✅ #23 Freed from the Real + Bloom Tender — Wincon: Maná infinito de colores presentes en permanentes. — Ban list: Ninguna — Post: `wordpress/combos/23-freed-from-the-real-bloom-tender.md`
+- ✅ #24 Freed from the Real + Faeburrow Elder — Wincon: Maná infinito. — Ban list: Ninguna — Post: `wordpress/combos/24-freed-from-the-real-faeburrow-elder.md`
+- ✅ #25 Devoted Druid + Vizier of Remedies — Wincon: Maná verde infinito. — Ban list: Ninguna — Post: `wordpress/combos/25-devoted-druid-vizier-of-remedies.md`
+- ✅ #26 Devoted Druid + Swift Reconfiguration — Wincon: Maná verde infinito. — Ban list: Ninguna — Post: `wordpress/combos/26-devoted-druid-swift-reconfiguration.md`
+- ✅ #27 Hermit Druid + Dread Return + Thassa's Oracle — Wincon: Auto-mill total y victoria por Oracle. — Ban list: Ninguna — Post: `wordpress/combos/27-hermit-druid-dread-return-thassa-s-oracle.md`
+- ✅ #28 Cephalid Illusionist + Nomads en-Kor — Wincon: Auto-mill completo hacia línea de reanimación/Oracle. — Ban list: Ninguna — Post: `wordpress/combos/28-cephalid-illusionist-nomads-en-kor.md`
+- ✅ #29 Necrotic Ooze + Phyrexian Devourer + Walking Ballista — Wincon: Daño letal desde cementerio con Ooze. — Ban list: Ninguna — Post: `wordpress/combos/29-necrotic-ooze-phyrexian-devourer-walking-ballista.md`
+- ✅ #30 Razaketh, the Foulblooded + Reanimate loop — Wincon: Cadena de tutores hasta win determinista. — Ban list: Ninguna — Post: `wordpress/combos/30-razaketh-the-foulblooded-reanimate-loop.md`
+- ✅ #31 Protean Hulk pile — Wincon: Tutor en cadena hacia kill inmediata (Oracle/Kiki/Ballista según pile). — Ban list: Ninguna — Post: `wordpress/combos/31-protean-hulk-pile.md`
+- ✅ #32 Boonweaver Giant + Pattern of Rebirth — Wincon: Cadena de reanimación/ETB que termina en kill (Blood Artist/Altar/etc.). — Ban list: Ninguna — Post: `wordpress/combos/32-boonweaver-giant-pattern-of-rebirth.md`
+- ✅ #33 Karmic Guide + Reveillark + Sac outlet — Wincon: Loop infinito de ETB/LTB con payoff letal. — Ban list: Ninguna — Post: `wordpress/combos/33-karmic-guide-reveillark-sac-outlet.md`
+- ✅ #34 Niv-Mizzet, Parun + Curiosity — Wincon: Daño infinito por robo de cartas. — Ban list: Ninguna — Post: `wordpress/combos/34-niv-mizzet-parun-curiosity.md`
+- ✅ #35 Niv-Mizzet, Parun + Ophidian Eye — Wincon: Bucle infinito de daño/robo. — Ban list: Ninguna — Post: `wordpress/combos/35-niv-mizzet-parun-ophidian-eye.md`
+- ✅ #36 Niv-Mizzet, Parun + Tandem Lookout — Wincon: Daño infinito por soulbond. — Ban list: Ninguna — Post: `wordpress/combos/36-niv-mizzet-parun-tandem-lookout.md`
+- ✅ #37 Malcolm, Keen-Eyed Navigator + Glint-Horn Buccaneer — Wincon: Loop de daño y tesoros infinitos en combate. — Ban list: Ninguna — Post: `wordpress/combos/37-malcolm-keen-eyed-navigator-glint-horn-buccaneer.md`
+- ✅ #38 Magda, Brazen Outlaw + Clock of Omens — Wincon: Tesoros infinitos y tutor repetido de artefacto/dragón hacia win. — Ban list: Ninguna — Post: `wordpress/combos/38-magda-brazen-outlaw-clock-of-omens.md`
+- ✅ #39 Godo, Bandit Warlord + Helm of the Host — Wincon: Fases de combate infinitas. — Ban list: Ninguna — Post: `wordpress/combos/39-godo-bandit-warlord-helm-of-the-host.md`
+- ✅ #40 Winota combo lines — Wincon: Snowball de triggers de Winota hacia lock/combo de combate. — Ban list: Ninguna — Post: `wordpress/combos/40-winota-combo-lines.md`
+- ✅ #41 Emry + Mirran Spy + 0-mana artifact — Wincon: Cast infinito de artefacto para storm/ETB/outlet. — Ban list: Ninguna — Post: `wordpress/combos/41-emry-mirran-spy-0-mana-artifact.md`
+- ✅ #42 Hullbreaker Horror + mana rocks — Wincon: Maná/valor infinito y eventual lock total de mesa. — Ban list: Ninguna — Post: `wordpress/combos/42-hullbreaker-horror-mana-rocks.md`
+- ✅ #43 Displacer Kitten + The One Ring — Wincon: Motor de ventaja masiva que deriva en win por recursos/combo secundario. — Ban list: Ninguna — Post: `wordpress/combos/43-displacer-kitten-the-one-ring.md`
+- ✅ #44 Teferi, Time Raveler + Knowledge Pool — Wincon: Hard lock: oponentes no pueden resolver hechizos. — Ban list: Ninguna — Post: `wordpress/combos/44-teferi-time-raveler-knowledge-pool.md`
+- ✅ #45 Possibility Storm + Drannith Magistrate — Wincon: Soft lock: rivales casi no pueden castear hechizos desde mano. — Ban list: Ninguna — Post: `wordpress/combos/45-possibility-storm-drannith-magistrate.md`
+- ✅ #46 Lavinia, Azorius Renegade + Knowledge Pool — Wincon: Lock de casteo para oponentes. — Ban list: Ninguna — Post: `wordpress/combos/46-lavinia-azorius-renegade-knowledge-pool.md`
+- ✅ #47 Worldgorger Dragon + Animate Dead — Wincon: Maná infinito de permanentes no tierra + outlet letal. — Ban list: Ninguna — Post: `wordpress/combos/47-worldgorger-dragon-animate-dead.md`
+- ✅ #48 Auriok Salvagers + Lion's Eye Diamond — Wincon: Maná blanco infinito + storm. — Ban list: Ninguna — Post: `wordpress/combos/48-auriok-salvagers-lion-s-eye-diamond.md`
+- ✅ #49 Abdel Adrian, Gorion's Ward + Animate Dead — Wincon: ETB/LTB loop infinito con tokens/valor y outlet letal. — Ban list: Ninguna — Post: `wordpress/combos/49-abdel-adrian-gorion-s-ward-animate-dead.md`
+- ✅ #50 Bolas's Citadel + Sensei's Divining Top + Aetherflux Reservoir — Wincon: Vida infinita efectiva + disparos de 50 de Aetherflux. — Ban list: Ninguna — Post: `wordpress/combos/50-bolas-s-citadel-sensei-s-divining-top-aetherflux-reservoir.md`
