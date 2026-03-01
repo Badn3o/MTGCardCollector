@@ -37,7 +37,7 @@ def main() -> None:
     token = os.getenv("TELEGRAM_BOT_TOKEN")
     if not token:
         raise RuntimeError(
-            "Falta TELEGRAM_BOT_TOKEN. Crea un .env basado en telegram_bot/.env.example"
+            "Falta TELEGRAM_BOT_TOKEN. Crea un .env basado en BadBunny/.env.example"
         )
 
     app = Application.builder().token(token).build()

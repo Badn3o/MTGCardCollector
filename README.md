@@ -68,10 +68,10 @@ Configura en los secrets del repositorio:
 
 ## Entorno adicional: bot de Telegram
 
-Se añadió un entorno independiente en `telegram_bot/` para crear una app conectada a Telegram.
+Este desarrollo se movió al directorio `BadBunny/` para mantenerlo separado del proyecto principal.
 
 ```bash
-bash telegram_bot/scripts/setup_telegram_env.sh
+bash BadBunny/scripts/setup_telegram_env.sh
 ```
 
-Documentación completa: `telegram_bot/README.md`.
+Documentación completa: `BadBunny/README.md`.
