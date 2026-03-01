@@ -64,3 +64,14 @@ Configura en los secrets del repositorio:
 
 - `cards`: catálogo consolidado de cartas con URL de imagen y payload JSON.
 - `sync_runs`: historial de sincronizaciones por checksum.
+
+
+## Entorno adicional: bot de Telegram
+
+Este desarrollo se movió al directorio `BadBunny/` para mantenerlo separado del proyecto principal.
+
+```bash
+bash BadBunny/scripts/setup_telegram_env.sh
+```
+
+Documentación completa: `BadBunny/README.md`.
