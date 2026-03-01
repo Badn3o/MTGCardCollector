@@ -64,3 +64,14 @@ Configura en los secrets del repositorio:
 
 - `cards`: catálogo consolidado de cartas con URL de imagen y payload JSON.
 - `sync_runs`: historial de sincronizaciones por checksum.
+
+
+## Entorno adicional: bot de Telegram
+
+Se añadió un entorno independiente en `telegram_bot/` para crear una app conectada a Telegram.
+
+```bash
+bash telegram_bot/scripts/setup_telegram_env.sh
+```
+
+Documentación completa: `telegram_bot/README.md`.
